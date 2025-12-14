@@ -11,8 +11,11 @@ Create a dashboard that shows two main view:
   2. A single title view which displays the release year, rating, synopsis, genre, director, cast, and the countries where it was available.
 
 Key Insights:
+
   • Identified a post-2016 surge in content additions, peaking in 2019
+  
   • Found TV-MA content dominates, indicating adult-focused audience targeting
+  
   • Discovered international movies as the largest genre, highlighting Netflix’s global expansion strategy
 
 Skills Demonstrated: SQL joins, data cleaning, dashboard design, KPI analysis
