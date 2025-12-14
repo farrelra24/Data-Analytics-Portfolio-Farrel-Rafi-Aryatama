@@ -1,0 +1,1 @@
+In this project, I've built a bike sales dashboard in Tableau. Some visualizations that I've displayed are profit, YoY% change, revenue, and product cost cards, bar charts, stacked column chart, bubble chart, and map. I also added a year parameter as a single-list filter and countries filter.
