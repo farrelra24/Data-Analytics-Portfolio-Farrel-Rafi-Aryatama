@@ -1,1 +1,1 @@
-
+In this project, I built a PowerBI dashboard on some classic model sales. There, I displayed monthly sales, MoM % change, sales and net profit buttons to switch between sales and net profit view. Some visuals that I include are column charts, donut chart, bar chart, and scatter plot as well as line charts and KPI cards.
